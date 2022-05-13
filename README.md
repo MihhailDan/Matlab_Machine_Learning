@@ -1,0 +1,4 @@
+This repository represents my home assignments regarding Machine Learning course. All three of them were done in MatLab. 
+At each folder You can find .pdf file that has my personal report.
+
+Right now I am doing one real-data project which will be uploaded here too.
